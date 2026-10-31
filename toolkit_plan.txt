@@ -1,0 +1,55 @@
+
+PERSONAL MINI-TOOLKIT PLAN
+
+1. TOOLS
+
+Tool 1: Simple Calculator
+The calculator allows users to add, subtract, multiply and divide two numbers.
+
+Tool 2: To-Do List
+The to-do list allows users to add tasks, view their tasks and remove completed tasks.
+
+Tool 3: Number Guessing Game
+The game generates a random number between 1 and 10 and allows the user to guess it.
+
+2. MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+
+Enter your choice (1-4):
+
+3. PYTHON CONCEPTS USED
+
+Simple Calculator:
+- Variables
+- User input
+- Conditional statements
+- Arithmetic operators
+- F-strings
+
+To-Do List:
+- Lists
+- Loops
+- Conditional statements
+- Append and remove
+- F-strings
+
+Number Guessing Game:
+- Random numbers
+- While loop
+- Conditional statements
+- Variables
+- F-strings
+
+Main Menu:
+- While loop
+- If / elif / else
+- User input
+- Friendly output
